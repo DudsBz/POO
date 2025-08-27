@@ -1,4 +1,4 @@
-# Projeto de Programação Orientada a Objetos (POO) em Java
+# Programação Orientada a Objetos (POO) em Java
 
 
 
@@ -7,11 +7,11 @@
 
 
 
-Este repositório contém um projeto desenvolvido em Java, utilizando a IDE NetBeans, para fins acadêmicos na disciplina de 
+Este repositório conterá códigos desenvolvido em Java, utilizando a IDE NetBeans, para fins acadêmicos na disciplina de 
 *
 *Programação Orientada a Objetos
 *
-*. O objetivo é aplicar conceitos fundamentais da POO, tais como:
+*. O objetivo é entender e aplicar conceitos fundamentais da POO, tais como:
 
 
 
@@ -38,16 +38,13 @@ Este repositório contém um projeto desenvolvido em Java, utilizando a IDE NetB
 
 
 
-O projeto foi desenvolvido visando a estruturação clara do código e boas práticas relacionadas ao design orientado a objetos.
-
-
 
 ---
 
 
 
 
-## Funcionalidades Implementadas
+## Funcionalidades para Implementação
 
 
 
